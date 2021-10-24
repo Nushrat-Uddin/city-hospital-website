@@ -1,0 +1,22 @@
+[
+    {
+        "id": 12,
+        "img": "https://bppoddarhospital.com/wp-content/uploads/2021/02/General-medicine.jpg",
+        "name": "General Medicine"
+    },
+    {
+        "id": 13,
+        "img": "https://www.nm.org//-/media/northwestern/healthbeat/images/health%20library/nm-ten-signs-cardiologist_preview.jpg",
+        "name": "Cardiology"
+    },
+    {
+        "id": 14,
+        "img": "https://i.ytimg.com/vi/wmAsX_iG76g/maxresdefault.jpg",
+        "name": "Hematology"
+    },
+    {
+        "id": 15,
+        "img": "https://daleenahealthcare.com/wp-content/uploads/2021/04/Neurology-1-980x481-1.jpg",
+        "name": "Neurology"
+    }
+]
