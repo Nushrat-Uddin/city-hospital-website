@@ -1,17 +1,17 @@
 # Project Title: 
 
-### Live site Link: https://adoring-villani-0bba89.netlify.app/ 
+### Live site Link: 
 
 ## Overview
 
-### Tools and Technology 
-*Reactjs
-*React Bootstrap
-*React Router
-*Bootstrap
-*Firebase Authentication
-*FontAwesome
+# Tools and Technology 
+1. Reactjs
+2. React Bootstrap
+3. React Router
+4. Bootstrap
+5. Firebase Authentication
+6. FontAwesome
 
-### Hosting and Deployment
-*Firebase Deployment
+# Hosting and Deployment
+Firebase Deployment
 
